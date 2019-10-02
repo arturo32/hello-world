@@ -1,2 +1,6 @@
 # hello-world
 trying to understand how things works
+
+Learning how to gittt!!
+I know C and Java and I used to know Python and C++...
+~Commiting changes to this branch........................
